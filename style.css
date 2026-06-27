@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(142, 175, 240);
+    background-color: rgb(159, 106, 20);
 }
 h1{
-    color: rgb(18, 43, 185);
+    color: rgb(255, 181, 96);
     text-align: center;
 }
 img{
@@ -13,7 +13,7 @@ img{
     width: 50%;
 }
 p{
-    color: rgb(5, 3, 111);
+    color: #f2ae72;
     text-align: center;
 }
 audio{
